@@ -5,17 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mxl2020</groupId>
-  <artifactId>idaas</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>domain</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>utils</module>
-    <module>constant</module>
-    <module>services</module>
-    <module>domain</module>
-  </modules>
 
-  <name>idaas</name>
+  <name>domain</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
